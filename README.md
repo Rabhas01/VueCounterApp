@@ -1,6 +1,6 @@
 # VueCounterApp
 
-This template should help get you started developing with Vue 3 in Vite.
+A  counter app made with Vue
 
 ## Recommended IDE Setup
 
